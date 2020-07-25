@@ -8,7 +8,7 @@ server.use(express.json());
 //query parms = ?teste=1
 //Route parms = /users/1
 //Request body = { "name": "Tiago", "email": "tiagomonteiro1@outlook.com.br"}
-//CRUD - Create, Read, Update, Delete etc
+//CRUD - Create, Read, Update, Delete
 
 const users = ['Tiago', 'Keli', 'Willians', 'Rozenval', 'Odaleria'];
 
